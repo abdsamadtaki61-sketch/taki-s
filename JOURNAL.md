@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> i wanna build a project that very cozy and has a very good design i wanna build a small robot (desk robot )
+> i wanna build a project that very cozy YAZ Desk Hub — Smart Robotics Desk Companion , A tiny desk companion designed for students who build electronics and robots.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
